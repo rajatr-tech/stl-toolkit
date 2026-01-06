@@ -13,6 +13,7 @@ This repository is created as part of my GSoC preparation to practice:
 - Sorting utilities using STL algorithms
 - Set operations using STL sets
 - Vector traversing using iterators
+- Key-value lookup and ordered traversal using STL map
 
 ## How to Compile and Run
 

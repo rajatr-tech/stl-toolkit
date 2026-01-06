@@ -12,6 +12,7 @@ This repository is created as part of my GSoC preparation to practice:
 - Frequency counting using maps
 - Sorting utilities using STL algorithms
 - Set operations using STL sets
+- Vector traversing using iterators
 
 ## How to Compile and Run
 
